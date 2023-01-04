@@ -1,5 +1,5 @@
 {
-    "version": "0.6.0.4",
+    "version": "0.6.0.3",
     "description": "Open source, cross-platform, user-mode tablet driver",
     "homepage": "https://opentabletdriver.net",
     "license": {
@@ -13,8 +13,8 @@
     "notes": "Only certain tablets require zadig, see https://opentabletdriver.net/Wiki/Install/Windows#winusb",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/OpenTabletDriver/OpenTabletDriver/releases/download/v0.6.0.4/OpenTabletDriver.win-x64.zip",
-            "hash": "4a3757df33e7f628839428c7093c1957c504c12429205cdf8ba957453c7104a8"
+            "url": "https://github.com/OpenTabletDriver/OpenTabletDriver/releases/download/v0.6.0.3/OpenTabletDriver.win-x64.zip",
+            "hash": "9e790a56a886a8770dca13f7c3afb921f1dd2e87e228d433376147320b45b566"
         }
     },
     "bin": [
