@@ -1,5 +1,5 @@
 {
-    "version": "96.0.4693.80",
+    "version": "99.0.4788.9",
     "description": "Fast, secure, easy-to-use browser.",
     "homepage": "https://www.opera.com/",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://download1.operacdn.com/pub/opera/desktop/96.0.4693.80/win/Opera_96.0.4693.80_Setup_x64.exe#/dl.7z",
-            "hash": "53eec28bf55869c1e4fe8cb18a791492bc1aab44d1748c33b1826742d6ed1c85"
+            "url": "https://download1.operacdn.com/pub/opera/desktop/99.0.4788.9/win/Opera_99.0.4788.9_Setup_x64.exe#/dl.7z",
+            "hash": "6e4b336edb2c074b76d4307bf9c15dea33fa14db6c3fd052412a8fc6d7f499e1"
         },
         "32bit": {
-            "url": "https://download1.operacdn.com/pub/opera/desktop/96.0.4693.80/win/Opera_96.0.4693.80_Setup.exe#/dl.7z",
-            "hash": "fe8d07f18d2a465882c63ca0d9794e4a549a498c8b310bdaded14f30814e9b74"
+            "url": "https://download1.operacdn.com/pub/opera/desktop/99.0.4788.9/win/Opera_99.0.4788.9_Setup.exe#/dl.7z",
+            "hash": "a1980aa1077ab916cbddd93e2db4156b9dacf8b9f33d514247ae10ac01698528"
         }
     },
     "installer": {
