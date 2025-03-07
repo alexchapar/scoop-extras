@@ -1,12 +1,12 @@
 {
-    "version": "5.3.5",
+    "version": "5.5.5",
     "description": "SCIntilla based Text Editor",
     "homepage": "https://www.scintilla.org/SciTE.html",
     "license": "HPND",
     "architecture": {
         "64bit": {
-            "url": "https://www.scintilla.org/Sc535.exe#/Sc1.exe",
-            "hash": "273ac04e2a866503d6a7722ddbd478f89a08eede8263f69e33bc54fa01b9e410"
+            "url": "https://www.scintilla.org/Sc555.exe#/Sc1.exe",
+            "hash": "2ffaca707d184b3e261593540f42565d64890dc8e6884cb860d04aea1af444e4"
         }
     },
     "bin": "Sc1.exe",
