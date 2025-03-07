@@ -1,10 +1,10 @@
 {
-    "version": "17",
+    "version": "25",
     "description": "Quickly and easily develop desktop, mobile, and web applications with Java, JavaScript, HTML5, PHP, C/C++ and more.",
     "homepage": "https://netbeans.org",
     "license": "Apache-2.0",
-    "url": "https://www.apache.org/dist/netbeans/netbeans/17/netbeans-17-bin.zip",
-    "hash": "sha512:f513d86a2a3f86ff56947fa1721426da331d9b5d45a67a4fc460f7eb1cd5e53557eb79ed2feb1dae301012448c05d2bd2c56175fdbd997ba2a09f274d9862dfb",
+    "url": "https://www.apache.org/dist/netbeans/netbeans/25/netbeans-25-bin.zip",
+    "hash": "sha512:f14c476fa995e034020903016117db83def2f6d223fe30b9f2013dc7202c6292863ec1680a2377b3b2e1296b6847268a504ff3ae004f2b79e2be8b328354caa8",
     "extract_dir": "netbeans",
     "architecture": {
         "64bit": {
